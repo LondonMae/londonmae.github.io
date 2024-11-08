@@ -2,4 +2,4 @@ I am a first-year Computer Science PhD student at UCLA, advised by Dr. Euncie Ju
 
 My past research spans human-computing interaction and high-performance computing, including research on work-stealing algorithms and fully-unpriviledged container services. I recieved a B.S degree in Computer Science and German Studies from Rhodes College.
 
-[View my Resume](another-page.md)
+[View my Resume]([another-page.md](https://docs.google.com/document/d/1VZaOb0vVvBrmfQSDDRllibaHgFQkVAkUJEcMnhlUnLY/edit?usp=sharing))
